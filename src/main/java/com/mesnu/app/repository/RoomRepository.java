@@ -1,5 +1,6 @@
-package com.mesnu.app.data;
+package com.mesnu.app.repository;
 
+import com.mesnu.app.entity.Room;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 
